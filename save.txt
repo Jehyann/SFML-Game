@@ -1,0 +1,14 @@
+GAMEOBJECTS
+Plante 160 160 5 1
+Plante 176 160 11 1
+Plante 192 160 17 1
+Plante 208 160 23 1
+Plante 224 160 29 1
+Plante 240 160 35 1
+Plante 256 160 41 0
+Plante 272 160 47 1
+Plante 288 160 53 1
+Creature 160 176 0 1
+Creature 192 208 1 1
+Creature 384 64 1 1
+GAMEOBJECTSEND
